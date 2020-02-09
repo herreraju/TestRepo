@@ -1,3 +1,4 @@
 This is a new txt file that I made just to demonstrate how to create a file in command line and edit it with VIM.
 Now I have set up Git bash for me to edit in notepad++. This is on the dev branch.
 Now I am using Brackets on MacOS
+Still here
