@@ -1,0 +1,1 @@
+This is a new txt file that I made just to demonstrate how to create a file in command line and edit it with VIM.
